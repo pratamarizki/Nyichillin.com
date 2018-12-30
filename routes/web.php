@@ -14,7 +14,9 @@
 Route::get('/', function () {
     return view('index');
 });
-
+Route::get('/welcome', function () {
+    return view('welcome');
+});
 Route::get('/Cicilan','cicilan_controller@index');
 Route::get('/Cicilan/{id}','cicilan_controller@show');
 Route::get('/cicil','cicilan_controller@cicil')->name('cicil');
