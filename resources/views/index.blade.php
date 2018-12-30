@@ -37,9 +37,8 @@
         }
     </style>
 
-    <title>Nyichillin.com</title>
+    <title>Nyichillin</title>
 
-    <!-- Bootstrap Core CSS -->
     <link href="{{asset('/vendor/bootstrap/css/bootstrap.min.css')}}" rel="stylesheet">
 
     <!-- Custom Fonts -->
@@ -95,7 +94,7 @@
                     </li>
                 </ul>
             </div>
-            <!-- /.navbar-collapse -->
+          
         </div>
         <!-- /.container-fluid -->
     </nav>
