@@ -1,6 +1,6 @@
-@extends('layouts.app')
+@extends ('layouts.app')
 
-@section('content')
+@section ('content')
 <a id="cicil" type="button" class="btn btn-warning" href="{{url('cicil')}}">Cicil Sekarang</a>
 	<table>
 		<tr>
