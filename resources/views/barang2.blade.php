@@ -20,7 +20,7 @@
 		<tr>
 			<th>Sistem Operasi</th>
 			<th>Windows 10 Home</th>
-		</tr>
+		</tr> 
 		<tr>
 			<th>RAM</th>
 			<th>8 GB DDR4 1866MHz SDRAM</th>
