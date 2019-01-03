@@ -3,7 +3,7 @@
 @section ('content')
 <a id="cicil" type="button" class="btn btn-warning" href="{{url('cicil')}}">Cicil Sekarang</a>
 	<table>
-		<tr>
+		<tr> 
 			<th><img class="enter" src="{{asset('/images/1.png')}}"></th>
 			<th><img class="enter" src="{{asset('/images/2.png')}}"></th>
 			<th><img class="enter" src="{{asset('/images/3.png')}}"></th>
